@@ -1,0 +1,10 @@
+<resources>
+    <color name="bg">#070B13</color>
+    <color name="panel">#111927</color>
+    <color name="cyan">#66F5FF</color>
+    <color name="mint">#64FFDA</color>
+    <color name="purple">#C59BFF</color>
+    <color name="text_primary">#F1F7FF</color>
+    <color name="text_secondary">#A6B7CC</color>
+    <color name="stroke">#294358</color>
+</resources>

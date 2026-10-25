@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DERMUX RU</string>
+    <string name="widget_name">DERMUX — КОЛЕСО КОМАНД</string>
+    <string name="widget_description">Открой круговое меню DERMUX и запускай команды Termux.</string>
+    <string name="widget_title">DERMUX</string>
+    <string name="widget_subtitle">РУССКИЙ ПУЛЬТ · @OSAODA</string>
+    <string name="widget_button">ОТКРЫТЬ КОЛЕСО  ↗</string>
+</resources>
