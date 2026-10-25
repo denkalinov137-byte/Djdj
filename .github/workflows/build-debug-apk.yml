@@ -23,7 +23,7 @@ jobs:
         with:
           gradle-version: '8.13'
       - name: Настроить Android SDK
-        uses: android-actions/setup-android@v3
+        uses: android-actions/setup-android@v4
       - name: Установить Android SDK Platform 35
         run: sdkmanager "platforms;android-35" "build-tools;35.0.0" "platform-tools"
       - name: Собрать debug APK
